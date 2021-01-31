@@ -14,3 +14,7 @@ if response.status_code == 200:
 else:
     print('Got unexpected status code {}: {!r}'.format(response.status_code, response.content))
                         
+
+
+//gitクローンURL
+https://github.com/tkybeer/my-first-blog.git
